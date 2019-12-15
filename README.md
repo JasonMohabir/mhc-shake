@@ -1,7 +1,7 @@
 # MHC-Shake: MHCflurry benchmark recreation and application on antigen presenting prediction for TCGA NSCLC Patients
 
-ECBM 4060: Genomic Science Final Project
-Group Members: Harry Lee, Jason Mohabir, Lillian Wang, Shuangyi Xu
+* ECBM 4060: Genomic Science Final Project
+* Group Members: Harry Lee, Jason Mohabir, Lillian Wang, Shuangyi Xu
 
 ## Introduction
 
@@ -17,6 +17,11 @@ The first objective of this paper is to recreate the benchmark results and compa
 
 Please see detailed discussion of our work linked here: 
 
+## Acknowledgments
+
+* Thank you to Wei-Yi Cheng for your project guidance and support this semester. 
+* Thank you to Timothy O'Donnell for meeting with our group and providing us with useful tips and discussion. 
+
 ## References
 
 T. J. O’Donnell, A. Rubinsteyn, M. Bonsack, A. B. Riemer, U. Laserson, and J. Hammerbacher, "MHCflurry: Open-Source Class I MHC Binding Affinity Prediction," Cell Systems, 2018. Available at: https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30232-1.
@@ -24,8 +29,3 @@ T. J. O’Donnell, A. Rubinsteyn, M. Bonsack, A. B. Riemer, U. Laserson, and J. 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Thank you to Wei-Yi Cheng for your project guidance and support this semester. 
-* Thank you to Timothy O'Donnell for meeting with our group and providing us with useful tips and discussion. 
